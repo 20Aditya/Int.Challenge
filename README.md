@@ -15,6 +15,8 @@ A repo developed as part of a challenge for a position.
 </ul>
 <br>
 <a href="https://drive.google.com/open?id=1auTESvgGf_fqVSEIR72dy9LL5zMymNHM" target="_blank">Working App Video</a>
+
+<iframe src="https://drive.google.com/file/d/1auTESvgGf_fqVSEIR72dy9LL5zMymNHM/preview" width="640" height="480"></iframe>
 <br>
 
 # Steps to run
@@ -40,6 +42,7 @@ cd /customerapp
  
 <br>
 # Screenshots
+<br>
 <br>
 
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss.png)
