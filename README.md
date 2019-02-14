@@ -15,6 +15,6 @@ A repo developed as part of a challenge for a position.
 </ul>
 
 <br>
-<video>
-    <source src="https://drive.google.com/file/d/1auTESvgGf_fqVSEIR72dy9LL5zMymNHM/preview?autoplay=1" type='video/mp4'>
-</video>
+
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/Screenshot from 2019-02-15 02-19-10.png)
+
