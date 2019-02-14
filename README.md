@@ -16,9 +16,30 @@ A repo developed as part of a challenge for a position.
 <br>
 <a href="https://drive.google.com/open?id=1auTESvgGf_fqVSEIR72dy9LL5zMymNHM" target="_blank">Working App Video</a>
 <br>
+
+# Steps to run
+
+1. Clone the repo:
+```
+git clone
+```
+2. Open the terminal and go to /customerapp
+```
+cd /customerapp
+```
+3. Type either of the command
+  if you have nodemon:
+  ```
+  nodemon
+  ```
+  Else
+  ```
+  npm app.js
+  ```
+
+ 
 <br>
-<p> These are the screenshots</p>
-<br>
+# Screenshots
 <br>
 
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss.png)
@@ -27,7 +48,7 @@ A repo developed as part of a challenge for a position.
 <br>
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss2.png)
 <br>
-![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/s3.png)
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss3.png)
 <br>
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss4.png)
 
