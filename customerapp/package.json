@@ -4,7 +4,8 @@
   "description": "Simple Customermanagement app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -18,7 +19,7 @@
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
     "pug": "^2.0.0-rc.4"
-  },
+  },  
   "author": "Aditya Chandel",
   "license": "ISC"
 }

@@ -62,8 +62,8 @@ router.get('/edit/:id', ensureAuthenticated, function(req, res){
 // Update Submit POST Route
 router.post('/edit/:id', function(req, res){
   let article = {};
+
   article.title = req.body.title;
-  article.author = req.body.author;
   article.body = req.body.body;
 
   let query = {_id:req.params.id}

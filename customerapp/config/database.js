@@ -1,4 +1,4 @@
 module.exports = {
-  database:'mongodb://admin:admin123@localhost:27017/nodekb?authSource=admin',
+  database:'mongodb://localhost:27017/nodekb',
   secret: 'yoursecret'
 }
