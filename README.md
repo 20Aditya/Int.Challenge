@@ -13,8 +13,19 @@ A repo developed as part of a challenge for a position.
 <li>User Authentication based on passportjs</li>
 <li>Database Used-MongoDB</li>
 </ul>
-
 <br>
+<a href="https://drive.google.com/open?id=1auTESvgGf_fqVSEIR72dy9LL5zMymNHM" target="_blank">Working App Video</a>
+<br>
+# Screenshots
+<br>
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss.png)
 
-![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/Screenshot from 2019-02-15 02-19-10.png)
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss1.png)
+
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss2.png)
+
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/s3.png)
+
+![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss4.png)
+
 
