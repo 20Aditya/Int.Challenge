@@ -16,7 +16,6 @@ A repo developed as part of a challenge for a position.
 <br>
 <a href="https://drive.google.com/open?id=1auTESvgGf_fqVSEIR72dy9LL5zMymNHM" target="_blank">Working App Video</a>
 
-<iframe src="https://drive.google.com/file/d/1auTESvgGf_fqVSEIR72dy9LL5zMymNHM/preview" width="640" height="480"></iframe>
 <br>
 
 # Steps to run
