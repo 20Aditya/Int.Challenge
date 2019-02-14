@@ -16,16 +16,19 @@ A repo developed as part of a challenge for a position.
 <br>
 <a href="https://drive.google.com/open?id=1auTESvgGf_fqVSEIR72dy9LL5zMymNHM" target="_blank">Working App Video</a>
 <br>
-# Screenshots
 <br>
+<p> These are the screenshots</p>
+<br>
+<br>
+
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss.png)
-
+<br>
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss1.png)
-
+<br>
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss2.png)
-
+<br>
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/s3.png)
-
+<br>
 ![alt text](https://raw.githubusercontent.com/20Aditya/Int.Challenge/master/customerapp/screenshots/ss4.png)
 
 
