@@ -3,6 +3,9 @@ A repo developed as part of a challenge for a position.
 
 
 # Blog App Design features:
+<br>
+
+<b>Goto /customerapp/Blog_document.pdf for App FlowChart</b>
 
 <ul>
 <li>User based</li>
@@ -15,7 +18,6 @@ A repo developed as part of a challenge for a position.
 </ul>
 <br>
 <a href="https://drive.google.com/open?id=1auTESvgGf_fqVSEIR72dy9LL5zMymNHM" target="_blank">Working App Video</a>
-
 <br>
 
 # Steps to run
